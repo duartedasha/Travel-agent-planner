@@ -3,3 +3,4 @@ google-search-results
 requests
 python-dotenv
 openai
+agno
